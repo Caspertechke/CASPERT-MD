@@ -6,6 +6,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=POWERED+BY+𝖢𝖠𝖲𝖯𝖤𝖱+𝖳𝖤𝖢𝖧+;KEEP+USING+CASPER-XMD" alt="Typing SVG" /></a>
   </p>
+
+  </a></p>
+- <a href="https://github.com/Traby-qriz/CASPER-XMD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/>
+</a></p>
   WhatsApp multi device bot by Casper Tech 
 
 
