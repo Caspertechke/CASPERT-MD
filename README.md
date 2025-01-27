@@ -8,7 +8,7 @@
   </p>
 
   </a></p>
-- <a href="https://github.com/Traby-qriz/CASPER-XMD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(0, 255, 255)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/>
+- <a href="https://github.com/Traby-qriz/CASPER-XMD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/FORK THE REPO-h?color=rgb(0, 255, 251)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/>
 </a></p>
   WhatsApp multi device bot by Casper Tech 
 
