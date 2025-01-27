@@ -8,8 +8,12 @@
   </p>
 
   </a></p>
-- <a href="https://github.com/Traby-qriz/CASPER-XMD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/FORK THE REPO-h?color=rgb(0, 255, 251)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/>
+- <a href="https://github.com/Traby-qriz/CASPER-XMD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/FORK THE REPO-h?color=rgb(0, 255, 205)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/>
 </a></p>
+
+</a></p>
+- <a href="https://popkidsessiongen-590384f05674.herokuapp.com/pair"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/SCAN CODE HERE-h?color=rgb(0, 255, 205)&style=for-the-badge&logo=tesla&logoColor=black" width="240" height="38.45"/></a></p>
+
   WhatsApp multi device bot by Casper Tech 
 
 
