@@ -2,7 +2,7 @@
 </p>
 
 <a href="https://whatsapp.com/channel/0029VazABxMJZg40sEZBX242">
-<img alt="🄲🄰🅂🄿🄴🅁-🅇🄼🄳" height="600" src="https://i.ibb.co/G9xgd0h/IMG-20250126-042719.png">
+<img alt="🄲🄰🅂🄿🄴🅁-🅇🄼🄳" height="100" src="https://i.ibb.co/G9xgd0h/IMG-20250126-042719.png">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=POWERED+BY+𝖢𝖠𝖲𝖯𝖤𝖱+𝖳𝖤𝖢𝖧+;KEEP+USING+CASPER-XMD" alt="Typing SVG" /></a>
   </p>
