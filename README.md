@@ -17,8 +17,11 @@
   𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗙𝗢𝗥 𝗖𝗔𝗦𝗣𝗘𝗥-𝗫𝗠𝗗
 </p>
 ***𝗛𝗲𝗿𝗼𝗸𝘂***
+1.𝚌𝚛𝚎𝚊𝚝𝚎 𝚊𝚌𝚌𝚘𝚞𝚗𝚝
 </a></p>
 - <a href='https://signup.heroku.com/' target="_silver"><img alt='Heroku' src='https://img.shields.io/badge/-ℂℝ𝔼𝔸𝕋𝔼 𝔸ℂℂ𝕆𝕌ℕ𝕋 ℕ𝕆𝕎-rgb(224, 255, 255)?style=for-the-badge&logo=tesla&logoColor=black' width="240" height="38.45"/></a>
+2.𝚍𝚎𝚙𝚕𝚘𝚢 𝚑𝚎𝚛𝚎
+- <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Traby-qriz/CASPER-XMD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-red?style=for-the-badge&logo=tesla" width="220" height="38.45"/></a></p>
 
   WhatsApp multi device bot by Casper Tech 
 
