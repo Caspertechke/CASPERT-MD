@@ -1,0 +1,31 @@
+{
+  "name": "CASPER-XMD",
+  "description": "Javascript WhatsApp bot made by 𝙲𝙰𝚂𝙿𝙴𝚁-𝚃𝙴𝙲𝙷 ",
+  "logo": "https://i.ibb.co/L1B43ZK/IMG-20250126-042254.png",
+  "keywords": ["bot, casper tech, CASPER-XMD, WhatsApp bot , anti delete"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true
+    },  
+
+    "ALIVE_IMG": {
+      "description": "https://i.ibb.co/L1B43ZK/IMG-20250126-042254.png.",
+      "required": true
+    },
+    
+    "ALIVE_MSG": {
+      "description": "CASPER-XMD is up and running 💨.",
+      "required": true
+    }   
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+}
