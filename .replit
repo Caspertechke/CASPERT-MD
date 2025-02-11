@@ -1,0 +1,27 @@
+```toml
+# Command to run when the Repl starts.  Replace "index.js" with your main file.
+run = "node index.js"
+
+# Package manager used in the project.
+packager = "npm"
+
+# Programming language of the project.
+language = "nodejs"
+
+# Node.js version.  Adjust as needed (e.g., "18.x", "20.x").
+version = "16.x"
+
+# Deployment settings.
+[deployment]
+  # Command to run during deployment.
+  run = "node index.js"
+
+  # VERY IMPORTANT: Prevents Replit from assigning a random port.
+  # This makes Uptime Robot monitoring reliable.
+  ignorePorts = true
+
+# Optional: For using pm2 process manager (uncomment if needed).
+# [[processes]]
+#   cmd = "pm2 start index.js"
+#   autostart = true
+```
